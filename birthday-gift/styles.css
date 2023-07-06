@@ -1,0 +1,104 @@
+body {
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    color: #ffffff;
+    background: linear-gradient(50deg, #6527BE, #a38ff3);
+}
+
+#bff-img {
+    width: 175px;
+    height: 175px;
+    background-image: url(images/edwinliby.jpg);
+    background-size: contain;
+    background-position: center;
+    border-radius: 50%;
+    border: 6px solid #8639cd;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#bday-age {
+    background-color: #8639cd;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin: 16px 0 8px 0;
+}
+
+#bday-date {
+    background-color: #8639cd;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin: 0px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-subtitle {
+    margin-top: 0;
+}
+
+.gift-item {
+    width: 400px;
+    height: 400px;
+    border: 6px solid #571a91;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    background-image: url(images/giftcover.webp);
+    background-size: cover;
+}
+
+#gift-happy:hover {
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RydXNkdjh4NXhoczQ1eTh1Z2xzYmRydXZ5eW00MG1iZXAxcXBhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFTKZ8zwj38gE/giphy.gif);
+    background-position: center;
+}
+
+#gift-hot:hover {
+    background-image: url(https://media.giphy.com/media/woqo2w8RoxQbdAWC0l/giphy.gif);
+    background-position: center;
+}
+
+#gift-awesome:hover {
+    background-image: url(https://media.giphy.com/media/EoH4Wpu8suiNTLpI6j/giphy.gif);
+    background-position: center;
+}
+
+#gift-badass:hover {
+    background-image: url(https://media.giphy.com/media/kiBcwEXegBTACmVOnE/giphy-downsized-large.gif);
+    background-position: center;
+}
+
+#gift-toast {
+    height: 400px;
+}
+
+#gift-toast:hover {
+    background-image: url(https://media.giphy.com/media/uba6y6W8oi7V6IGFQj/giphy.gif);
+    background-position: center;
+}
+
+#footer {
+    width: 400px;
+    font-style: italic;
+    margin: 16px auto 24px auto;
+}
+
+#course-link {
+    color: white;
+}
