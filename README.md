@@ -1,4 +1,5 @@
 # Mulearn-Web-Bootcamp
+Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 
 | Task No. | Deployment Link |
 |:-:|-|
