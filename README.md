@@ -8,7 +8,4 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 3 | [Digital Business Card](https://aswingt65-mulearn-web-bootcamp.netlify.app/business-card/) |
 | 4 | [Space Exploration Site](https://aswingt65-mulearn-web-bootcamp.netlify.app/space-exploration/) |
 | 5 | [Birthday GIFt Site](https://aswingt65-mulearn-web-bootcamp.netlify.app/birthday-gift/) |
-
-| Project No. | Deployment Link |
-|:-:|-|
-| 1 | [Static Website](https://aswingt65-mulearn-web-bootcamp.netlify.app/static-website/) |
+| 6 | [Static Website](https://aswingt65-mulearn-web-bootcamp.netlify.app/static-website/) |
