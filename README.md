@@ -9,3 +9,4 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 4 | [Space Exploration Site](https://aswingt65-mulearn-web-bootcamp.netlify.app/space-exploration/) |
 | 5 | [Birthday GIFt Site](https://aswingt65-mulearn-web-bootcamp.netlify.app/birthday-gift/) |
 | 6 | [Static Website](https://aswingt65-mulearn-web-bootcamp.netlify.app/static-website/) |
+| 7 | [CSS Flex](https://aswingt65-mulearn-web-bootcamp.netlify.app/css-flex/) |
