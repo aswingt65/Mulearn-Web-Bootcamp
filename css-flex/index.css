@@ -55,10 +55,6 @@
     outline: none;
   }
   
-  .container > li {
-    background-color: #96ceb4;
-  }
-
   @media all and (max-width: 400px) {
     .container > li {
       flex: 1 1 100%;
