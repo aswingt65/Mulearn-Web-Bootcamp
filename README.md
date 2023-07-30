@@ -10,5 +10,5 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 5 | [Birthday GIFt Site](https://aswingt65-mulearn-web-bootcamp.netlify.app/birthday-gift/) |
 | 6 | [Static Website](https://aswingt65-mulearn-web-bootcamp.netlify.app/static-website/) |
 | 7 | [CSS Flex](https://aswingt65-mulearn-web-bootcamp.netlify.app/css-flex/) |
-| 8 | [Style static website](https://aswingt65-mulearn-web-bootcamp.netlify.app/style-website/) |
+| 8 | [Style Static Website](https://aswingt65-mulearn-web-bootcamp.netlify.app/style-website/) |
 | 9 | [Passenger Counter App](https://aswingt65-mulearn-web-bootcamp.netlify.app/passenger-counter/) |
