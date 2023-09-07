@@ -1,3 +1,5 @@
+<body bgcolor: lightgreen>
+  
 # Mulearn-Web-Bootcamp
 Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 
@@ -30,3 +32,4 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 25 | [Weather app](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
 | 26 | [E-Commerce website](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
 
+</body>
