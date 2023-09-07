@@ -17,7 +17,7 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 12 | [Blackjack Game](https://aswingt65-mulearn-web-bootcamp.netlify.app/blackjack-game/) |
 | 13 | [Fruit Sorting](https://aswingt65-mulearn-web-bootcamp.netlify.app/fruit-sort/) |
 | 14 | [Chrome Extention](https://aswingt65.github.io/Mulearn-Web-Bootcamp/chrome-extension/) |
-| 15 | [Convert string to number challenge](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
+| 15 | [Convert string to number challenge](https://aswingt65-mulearn-web-bootcamp.netlify.app/string-to-number/) |
 | 16 | [Mobile App](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
 | 17 | [GitHub API](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
 | 18 | [React info site](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
