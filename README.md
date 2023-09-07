@@ -16,6 +16,18 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 11 | [Developer Environment (Landing Page)](https://aswingt65-mulearn-web-bootcamp.netlify.app/landing-page/) |
 | 12 | [Blackjack Game](https://aswingt65-mulearn-web-bootcamp.netlify.app/blackjack-game/) |
 | 13 | [Fruit Sorting](https://aswingt65-mulearn-web-bootcamp.netlify.app/fruit-sort/) |
-
+| 14 | []() |
+| 15 | []() |
+| 16 | []() |
+| 17 | []() |
+| 18 | []() |
+| 19 | []() |
+| 20 | []() |
+| 21 | []() |
+| 22 | []() |
+| 23 | []() |
+| 24 | []() |
+| 25 | []() |
+| 26 | []() |
 
 
