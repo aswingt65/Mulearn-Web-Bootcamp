@@ -14,3 +14,6 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 9 | [Passenger Counter App](https://aswingt65-mulearn-web-bootcamp.netlify.app/passenger-counter/) |
 | 10 | [Calculator](https://aswingt65-mulearn-web-bootcamp.netlify.app/calculator/) |
 | 11 | [Developer Environment (Landing Page)](https://aswingt65-mulearn-web-bootcamp.netlify.app/landing-page/) |
+| 12 | [Blackjack Game](https://aswingt65-mulearn-web-bootcamp.netlify.app/blackjack-game/) |
+
+
