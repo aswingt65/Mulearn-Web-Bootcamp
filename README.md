@@ -20,7 +20,7 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 15 | [Convert string to number challenge](https://aswingt65-mulearn-web-bootcamp.netlify.app/string-to-number/) |
 | 16 | [Mobile App](https://aswingt65-mulearn-web-bootcamp.netlify.app/mob-app/) |
 | 17 | [GitHub API](https://aswingt65-mulearn-web-bootcamp.netlify.app/github-api/) |
-| 18 | [React info site](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
+| 18 | [React info site](https://aswingt65-mulearn-web-bootcamp.netlify.app/react-info/) |
 | 19 | [AirBnb clone](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
 | 20 | [Meme Generator](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
 | 21 | [Notes App and Tenzies Game](https://aswingt65.github.io/Mulearn-Web-Bootcamp/404/) |
