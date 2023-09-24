@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 5%;
+    background-color: rgb(45, 45, 45);
+}
+
+.img-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+h2{
+    color:rgb(255, 255, 255);
+}
+main p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 5px 0;
+}
+.repos{
+    gap: 10px;
+    padding: 25px;
+    justify-content: center ;
+    display: flex;
+    flex-wrap: wrap;
+}
+.repo{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    gap: 10px;
+    border-radius: 5px;
+    border: 3px solid rgb(255, 255, 255);
+    flex-grow: 1;
+
+}
+.repo p{
+    height:80px ;
+    overflow-y: scroll;
+    color: rgb(255, 255, 255);
+    text-align: left;
+
+}
+.repo p::-webkit-scrollbar{
+    display: none;
+}
+.repo h2{
+    text-align: center;
+    height: 120px;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+}
+.star-fork-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    width: 90%;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+}
+a{
+    width: 100%;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 3px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding: 10px 0;
+}
+a:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
