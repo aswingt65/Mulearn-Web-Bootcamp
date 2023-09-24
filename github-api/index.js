@@ -1,6 +1,6 @@
 function fetchdata(event){
   event.preventDefault()
-  username= "aswingt65"
+  username= "aswingt65"  //change username to view your repositories
   repos.innerHTML=""
   fetch(`https://api.github.com/users/${username}`)
   .then((res) => res.json())
