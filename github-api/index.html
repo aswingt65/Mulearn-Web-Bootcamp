@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Repo Viewer</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/eabac940d1.js" crossorigin="anonymous"></script>
+</head>
+<body onload="fetchdata(event)">
+
+    <main>
+        <div class="img-container">
+            <img alt="" id="img">
+        </div>
+      
+        <h1 id="name"></h1>
+        <p><span id="followers"></span> followers</p>
+      
+        <div class="repo-container">
+            <h2>Repositories</h2>
+            <div class="repos" id="repos">                
+            </div>
+        </div>
+      
+    </main>
+
+    <script src="index.js"></script>
+</body>
+</html>
