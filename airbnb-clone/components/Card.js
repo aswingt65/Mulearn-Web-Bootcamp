@@ -15,11 +15,11 @@ export default function Card(props) {
                 <div className="card--badge">{badgeText}</div>
             }
             <img 
-                src={`../blob/main/airbnb-clone/images/${props.coverImg}`} 
+                src={`../airbnb-clone/images/${props.coverImg}`} 
                 className="card--image" 
             />
             <div className="card--stats">
-                <img src="../blob/main/airbnb-clone/images/star.png" className="card--star" />
+                <img src="../airbnb-clone/images/star.png" className="card--star" />
                 <span>{props.stats.rating}</span>
                 <span className="gray">({props.stats.reviewCount}) • </span>
                 <span className="gray">{props.location}</span>
