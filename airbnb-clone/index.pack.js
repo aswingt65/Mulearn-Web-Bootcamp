@@ -521,13 +521,13 @@ function Card(props) {
             badgeText
         ),
         _react2.default.createElement("img", {
-            src: "../blob/main/airbnb-clone/images/" + props.coverImg,
+            src: "../airbnb-clone/images/" + props.coverImg,
             className: "card--image"
         }),
         _react2.default.createElement(
             "div",
             { className: "card--stats" },
-            _react2.default.createElement("img", { src: "../blob/main/airbnb-clone/images/star.png", className: "card--star" }),
+            _react2.default.createElement("img", { src: "../airbnb-clone/images/star.png", className: "card--star" }),
             _react2.default.createElement(
                 "span",
                 null,
@@ -587,7 +587,7 @@ function Hero() {
     return _react2.default.createElement(
         "section",
         { className: "hero" },
-        _react2.default.createElement("img", { src: "../blob/main/airbnb-clone/images/photo-grid.png", className: "hero--photo" }),
+        _react2.default.createElement("img", { src: "../airbnb-clone/images/photo-grid.png", className: "hero--photo" }),
         _react2.default.createElement(
             "h1",
             { className: "hero--header" },
@@ -623,7 +623,7 @@ function Navbar() {
     return _react2.default.createElement(
         "nav",
         null,
-        _react2.default.createElement("img", { src: "../blob/main/airbnb-clone/images/airbnb-logo.png", className: "nav--logo" })
+        _react2.default.createElement("img", { src: "../airbnb-clone/images/airbnb-logo.png", className: "nav--logo" })
     );
 }
 
